@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Farhan Alvi and I enjoy writing code
-- 💞️ Always open to collaborate on interesting projects
-- 📫 Contact: farhanalvi005@gmail.com
+do people actually read this?
